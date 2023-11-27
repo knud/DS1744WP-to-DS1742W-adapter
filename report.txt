@@ -1,0 +1,19 @@
+Info: Backing up file '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/sym-lib-table' to '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/rescue-backup/sym-lib-table-2023-10-20-11-45-05'.
+Info: Backing up file '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/DS1744p adapter.sch' to '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/rescue-backup/DS1744p adapter-2023-10-20-11-45-05.sch'.
+Info: Backing up file '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/DS1744p adapter.kicad_pro' to '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/rescue-backup/DS1744p adapter-2023-10-20-11-45-05.kicad_pro'.
+Info: Backing up file '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/DS1744p adapter-cache.lib' to '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/rescue-backup/DS1744p adapter-cache-2023-10-20-11-45-05.lib'.
+Info: Backing up file '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/DS1744p adapter-rescue.lib' to '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/rescue-backup/DS1744p adapter-rescue-2023-10-20-11-45-05.lib'.
+Info: Backing up file '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/DS1744p adapter-rescue.dcm' to '/Volumes/LaCie/Development/KiCad/DS1744WP-to-DS1742W-adapter/rescue-backup/DS1744p adapter-rescue-2023-10-20-11-45-05.dcm'.
+Info: Adding library 'DS1744p-adapter-rescue', file '${KIPRJMOD}/DS1744p adapter-rescue.lib' to project symbol library table.
+Symbol DS1744P-70 mapped to symbol library 'DS1744p-adapter-rescue'.
+Symbol GND mapped to symbol library 'DS1744p-adapter-rescue'.
+Symbol +3.3V mapped to symbol library 'DS1744p-adapter-rescue'.
+Symbol C mapped to symbol library 'DS1744p-adapter-rescue'.
+Symbol GND mapped to symbol library 'DS1744p-adapter-rescue'.
+Symbol +3.3V mapped to symbol library 'DS1744p-adapter-rescue'.
+Symbol +3.3V mapped to symbol library 'DS1744p-adapter-rescue'.
+Symbol DS1742-100 mapped to symbol library 'DS1744p-adapter-rescue'.
+Symbol GND mapped to symbol library 'DS1744p-adapter-rescue'.
+Info: Symbol library table mapping complete!
+Info: Created project symbol library table.
+

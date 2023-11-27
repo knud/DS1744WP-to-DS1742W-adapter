@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DS1744p-adapter")(type "KiCad")(uri "${KIPRJMOD}/DS1744p adapter.kicad_sym")(options "")(descr ""))
+)
