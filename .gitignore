@@ -2,7 +2,7 @@
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
 # New Additions
-*-backups
+*-backup*
 *auto_saved_files*
 .obsidian/
 
